@@ -23261,8 +23261,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":4,
          "firstgid":11492,
-         "source":"..\/docs\/carpet-lps.tsx"
+         "image":"..\/tilesets\/carpet_lps.png",
+         "imageheight":64,
+         "imagewidth":128,
+         "margin":0,
+         "name":"carpet-lps",
+         "spacing":0,
+         "tilecount":8,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
