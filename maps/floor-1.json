@@ -285,8 +285,34 @@
  "nextlayerid":47,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: EGS"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Custom map EGS"
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"floor-1.png"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/gparant\/egs-map"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Working"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -23260,6 +23286,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":69
 }
